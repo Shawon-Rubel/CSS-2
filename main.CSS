@@ -1,0 +1,16 @@
+.blog{
+   width:30%;
+   border:2px solid red;
+   margin:10px;
+   padding:5px;
+   border-radius:20px;
+   float:left;
+  
+}
+body{
+ font-family: 'Bonheur Royale', cursive;
+}
+
+img{
+	width:100%;
+}
